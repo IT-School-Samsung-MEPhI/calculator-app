@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+
+    <string name="zero_button_text" translatable="false">0</string>
+    <string name="one_button_text" translatable="false">1</string>
+    <string name="two_button_text" translatable="false">2</string>
+    <string name="three_button_text" translatable="false">3</string>
+    <string name="four_button_text" translatable="false">4</string>
+    <string name="five_button_text" translatable="false">5</string>
+    <string name="six_button_text" translatable="false">6</string>
+    <string name="seven_button_text" translatable="false">7</string>
+    <string name="eight_button_text" translatable="false">8</string>
+    <string name="nine_button_text" translatable="false">9</string>
+
+    <string name="division_button_text" translatable="false">/</string>
+    <string name="multiplication_button_text" translatable="false">*</string>
+    <string name="subtraction_button_text" translatable="false">-</string>
+    <string name="addition_button_text" translatable="false">+</string>
+
+    <string name="backspace_button_text" translatable="false">&lt;-</string>
+    <string name="result_button_text" translatable="false">=</string>
+</resources>
